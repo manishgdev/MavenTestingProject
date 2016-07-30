@@ -8,6 +8,7 @@
 					<include name="testMethod2" />
 					<include name="testMethod3" />
 					<include name="testMethod5" />
+					<include name="testMethod7" />
 				</methods>
 			</class>
 		</classes>
