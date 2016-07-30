@@ -6,6 +6,8 @@
 			<class name="com.manish.testng.SecondTest">
 				<methods>
 					<include name="testMethod2" />
+					<include name="testMethod3" />
+					<include name="testMethod5" />
 				</methods>
 			</class>
 		</classes>

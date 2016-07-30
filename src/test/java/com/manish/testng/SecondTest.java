@@ -47,4 +47,14 @@ public class SecondTest {
     public void testMethod5() {
         System.out.println("Executing Test Method5");
     }
+    
+    @Test
+    public void testMethod6() {
+        System.out.println("Executing Test Method6");
+    }
+    
+    @Test
+    public void testMethod7() {
+        System.out.println("Executing Test Method7");
+    }
 }
